@@ -1,1 +1,11 @@
-password = test#21423asadw^wwds
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Server=myServerName,myPortNumber;Database=myDataBase;User Id=myUsername;Password=myPassword;"
+    }
+  },
+  "AllowedHosts": "*",
+  "MyCustomKey": "test"
+}
