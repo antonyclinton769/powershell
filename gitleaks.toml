@@ -1,0 +1,4 @@
+[[rules]]
+id = "hardcoded-password"
+description = "Presence of password"
+regex = '''[Pp]assword=.*?(;)'''
